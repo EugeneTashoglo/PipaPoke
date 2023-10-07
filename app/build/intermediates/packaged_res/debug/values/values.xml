@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#81209CFF</color>
+    <color name="purple_700">#8154B3FF</color>
+    <color name="red">#DF1919</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="min_margin">16dp</dimen>
+    <string name="app_name">PokeApi</string>
+    <string name="experience">Опыт:  </string>
+    <string name="height">Рост: </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">Id: </string>
+    <string name="weight">Вес: </string>
+    <style name="Theme.PokeApi" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

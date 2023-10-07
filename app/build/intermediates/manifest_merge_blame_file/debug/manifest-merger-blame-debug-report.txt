@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ufrn.anacamilly.pokeapi"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:7:5-30:19
+14        android:allowBackup="true"
+14-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\tasho\.gradle\caches\transforms-3\121b947d94f06faccefda129698d8542\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:9:9-65
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:10:9-54
+20        android:icon="@drawable/pikachu"
+20-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:11:9-41
+21        android:label="@string/app_name"
+21-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@drawable/pikachu"
+22-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:13:9-46
+23        android:supportsRtl="true"
+23-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.PokeApi" >
+25-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:15:9-45
+26        <activity
+26-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:17:9-29:20
+27            android:name="ufrn.anacamilly.pokeapi.ui.MainActivity"
+27-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:18:13-44
+28            android:exported="true" >
+28-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:19:13-36
+29            <intent-filter>
+29-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:20:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:21:17-69
+30-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:21:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:23:17-77
+32-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34
+35            <meta-data
+35-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:26:13-28:36
+36                android:name="android.app.lib_name"
+36-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:27:17-52
+37                android:value="" />
+37-->C:\Users\tasho\Pokemone\app\src\main\AndroidManifest.xml:28:17-33
+38        </activity>
+39
+40        <uses-library
+40-->[androidx.window:window:1.0.0] C:\Users\tasho\.gradle\caches\transforms-3\0c31e13bf27a16178c1fa0ab8d7528fe\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+41            android:name="androidx.window.extensions"
+41-->[androidx.window:window:1.0.0] C:\Users\tasho\.gradle\caches\transforms-3\0c31e13bf27a16178c1fa0ab8d7528fe\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+42            android:required="false" />
+42-->[androidx.window:window:1.0.0] C:\Users\tasho\.gradle\caches\transforms-3\0c31e13bf27a16178c1fa0ab8d7528fe\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+43        <uses-library
+43-->[androidx.window:window:1.0.0] C:\Users\tasho\.gradle\caches\transforms-3\0c31e13bf27a16178c1fa0ab8d7528fe\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+44            android:name="androidx.window.sidecar"
+44-->[androidx.window:window:1.0.0] C:\Users\tasho\.gradle\caches\transforms-3\0c31e13bf27a16178c1fa0ab8d7528fe\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+45            android:required="false" />
+45-->[androidx.window:window:1.0.0] C:\Users\tasho\.gradle\caches\transforms-3\0c31e13bf27a16178c1fa0ab8d7528fe\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+46
+47        <provider
+47-->[com.squareup.picasso:picasso:2.71828] C:\Users\tasho\.gradle\caches\transforms-3\44e53c9eda267dafc179b52a9504f6aa\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+48            android:name="com.squareup.picasso.PicassoProvider"
+48-->[com.squareup.picasso:picasso:2.71828] C:\Users\tasho\.gradle\caches\transforms-3\44e53c9eda267dafc179b52a9504f6aa\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+49            android:authorities="ufrn.anacamilly.pokeapi.com.squareup.picasso"
+49-->[com.squareup.picasso:picasso:2.71828] C:\Users\tasho\.gradle\caches\transforms-3\44e53c9eda267dafc179b52a9504f6aa\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+50            android:exported="false" />
+50-->[com.squareup.picasso:picasso:2.71828] C:\Users\tasho\.gradle\caches\transforms-3\44e53c9eda267dafc179b52a9504f6aa\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tasho\.gradle\caches\transforms-3\d3a59f6329793560734391c50d3a784e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tasho\.gradle\caches\transforms-3\d3a59f6329793560734391c50d3a784e\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+53            android:authorities="ufrn.anacamilly.pokeapi.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tasho\.gradle\caches\transforms-3\d3a59f6329793560734391c50d3a784e\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tasho\.gradle\caches\transforms-3\d3a59f6329793560734391c50d3a784e\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tasho\.gradle\caches\transforms-3\d3a59f6329793560734391c50d3a784e\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tasho\.gradle\caches\transforms-3\d3a59f6329793560734391c50d3a784e\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tasho\.gradle\caches\transforms-3\d3a59f6329793560734391c50d3a784e\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\tasho\.gradle\caches\transforms-3\4d6d20e105047299b057fe82c3bd9260\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\tasho\.gradle\caches\transforms-3\4d6d20e105047299b057fe82c3bd9260\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\tasho\.gradle\caches\transforms-3\4d6d20e105047299b057fe82c3bd9260\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+61        </provider>
+62    </application>
+63
+64</manifest>

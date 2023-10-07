@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/layout_fragment_poke_detail.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/layout/fragment_poke_detail.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable_print2.jpg.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable/print2.jpg"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable_gradient3.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable/gradient3.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable_pokeball.png.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable/pokeball.png"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable_print1.jpg.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable/print1.jpg"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/layout_fragment_poke_list.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/layout/fragment_poke_list.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable_pokeapi.png.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable/pokeapi.png"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable_gradient.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable/gradient.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable_pikachu.jpg.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable/pikachu.jpg"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/layout_poke_item.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/layout/poke_item.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/navigation_main_graph.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/navigation/main_graph.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/drawable_gradient2.xml.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/drawable/gradient2.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-mergeDebugResources-46:/layout/poke_item.xml",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/layout/poke_item.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-mergeDebugResources-46:/layout/fragment_poke_detail.xml",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/layout/fragment_poke_detail.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ufrn.anacamilly.pokeapi.app-mergeDebugResources-46:/layout/fragment_poke_list.xml",
+        "source": "ufrn.anacamilly.pokeapi.app-main-49:/layout/fragment_poke_list.xml"
+    }
+]
